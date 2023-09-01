@@ -2,7 +2,6 @@
 
 Watchlist is a web application that lets you create and manage your personal list of favorite movies and TV shows. Whether you want to keep track of the latest blockbusters or your all-time classics, Watchlist makes it easy to organize and review your favorite titles.
 
-![Watchlist Logo](/path/to/your/logo.png)
 
 ## Table of Contents
 

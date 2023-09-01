@@ -10,8 +10,6 @@ Watchlist is a web application that lets you create and manage your personal lis
 - [Usage](#usage)
 - [API Endpoints](#api-endpoints)
 - [Authentication](#authentication)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
@@ -27,7 +25,7 @@ Watchlist is a web application that lets you create and manage your personal lis
 
 Open your web browser and go to http://localhost:8000/ to start using Watchlist.
 
-**Usage**
+## Usage
 
 Here's how you can make the most of Watchlist:
 
@@ -36,7 +34,7 @@ Here's how you can make the most of Watchlist:
 - **Review and Edit:** Share your thoughts by adding or editing reviews.
 - **API Integration:** Integrate Watchlist into your applications using the user-friendly API.
 
-**API Endpoints**
+## API Endpoints
 
 Discover the powerful API behind Watchlist:
 
@@ -53,11 +51,11 @@ Discover the powerful API behind Watchlist:
 
 For a complete list of API endpoints and examples, refer to our API Documentation.
 
-**Authentication**
+## Authentication
 
 Watchlist uses token-based authentication for API access. To obtain an access token, make a POST request to `/api/token/` with your credentials.
 
-**Installation**
+## Installation
 
 Get Watchlist up and running on your local machine in just a few steps:
 
